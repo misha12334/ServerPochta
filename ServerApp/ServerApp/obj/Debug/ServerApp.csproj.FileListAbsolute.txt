@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Vladimir\Desktop\Почта России\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
